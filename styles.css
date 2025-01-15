@@ -8,6 +8,7 @@ body {
   color: #d8dee9; /* Off-White for text */
 }
 
+
 /* ----------------------------------------------
    Navigation Bar Styles
 ---------------------------------------------- */
@@ -216,6 +217,8 @@ nav a.active {
 .alt-color-2 {
   background-color: #3a3b44;
 }
+
+
 
 /* ----------------------------------------------
    Publication Page Styles
